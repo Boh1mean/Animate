@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BA4C1F53-1AA2-4581-9C36-EE1E7CB376F9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79908C02-3308-49C6-9A29-BB2141921F29"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "game_openGL/ThirdScene.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "initStars()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "79908C02-3308-49C6-9A29-BB2141921F29 - 827d2ac5e68ec2c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "initStars()"
+                  moduleName = "game_openGL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danilknyazkin/Documents/%D0%9F%D1%80%D0%BE%D0%B3%D0%B0%20/openGL/game%20openGl/game_openGL/game_openGL/ThirdScene.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "79908C02-3308-49C6-9A29-BB2141921F29 - 827d2ac5e68ec2c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "initStars()"
+                  moduleName = "game_openGL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danilknyazkin/Documents/%D0%9F%D1%80%D0%BE%D0%B3%D0%B0%20/openGL/game%20openGl/game_openGL/game_openGL/ThirdScene.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "79908C02-3308-49C6-9A29-BB2141921F29 - 827d2ac5e68ec2c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "initStars()"
+                  moduleName = "game_openGL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danilknyazkin/Documents/%D0%9F%D1%80%D0%BE%D0%B3%D0%B0%20/openGL/game%20openGl/game_openGL/game_openGL/ThirdScene.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFBDA229-63B6-4D66-B025-8C9C8D80D4CB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "game_openGL/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "216"
+            endingLineNumber = "216"
+            landmarkName = "drawAnima()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
